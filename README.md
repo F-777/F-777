@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - chess.com
-- Suporter of Liverpool FC
+- Suporter of Liverpool , Chelsea 
 
 <!---
 F-777/F-777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
