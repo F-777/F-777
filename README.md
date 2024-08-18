@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - chess.com
-- Suporter of Liverpool , Chelsea , Madrid , Milan
+- Suporter of Liverpool , London , Madrid , Milan . Manchester , Deculona , Neverlusen Grafische , Munchen , Dortmund , Ajax , Porto 
 
 <!---
 F-777/F-777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
