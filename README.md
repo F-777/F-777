@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Imanuel Revo Admojo
-- 👀 I’m Student in Vocation High School 4 Malang
+- 👀 I’m Student in SMK Negeri 4 Malang
 - 🌱 I’m currently learning UI UX and Frontend Website
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
