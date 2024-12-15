@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UI Designer and Frontend Website
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: My Favourites Wife is Furina Focalors and the my fav idol is Fernando Torres and Toni Kroos
 - ⚡ Fun fact: 17 y.o
 - chess.com
 
