@@ -1,4 +1,4 @@
-ì<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -84,14 +84,8 @@
 <div align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=F-777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> 
  
-<div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=ruslanleker1663&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> 
  
- 
-  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&layout=compact).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanleker1663&layout=compact)
 
 
