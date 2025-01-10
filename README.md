@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<i><h1 align="left">Hey 👋 What's up?</h1></i>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<i><h2 align="left">About me</h2></i>
 
 ###
 
