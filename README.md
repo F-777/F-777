@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+ì<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -90,7 +90,7 @@
  
   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&layout=compact).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanleker1663&layout=compact)
 
