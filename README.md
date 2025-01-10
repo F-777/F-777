@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Developmemt and Designer</h2>
+<h2 align="left">Development and Designer</h2>
 
 ###
 
