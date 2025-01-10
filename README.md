@@ -10,13 +10,15 @@
 
 ###
 
+<i>
 <p align="left">Hello everyone, let me introduce myself, my name is Imanuel Revo Admojo, I am a Frontend Web developer who comes from Malang City, East Java, . I first started liking the world of programming when I was in junior high school, I accidentally the working of Game Dev , that's where I started to become interested in the world of programming.
   <br>Today i'm overripe in the software house in the jobs of Frontend Developer web and i'm likes the UI Design and Analystyc of UX  
   <br>Through this portfolio I want to show the results of the projects I worked on as a Frontend Dev Web and Analyst UI and UX , hopefully it can inspire friends who want to become programmers too. and don't give up, keep learning until you can, because in the world of programming there is no waiting, they will continue to develop following the times.</p>
+</i>
 
 ###
 
-<h2 align="left">My Favorite Tech Dev and Designer</h2>
+<i><h2 align="left">Developmemt and Designer</h2></i>
 
 ###
 
@@ -48,7 +50,7 @@
 
 ###
 
-<h2 align="left">My Social Media</h2>
+<i><h2 align="left">My Social Media</h2></i>
 
 ###
 
