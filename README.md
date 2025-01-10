@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">My Favorite Tech Stack And Design Tools</h2>
+<h2 align="left">My Favorite Tech Dev and Designer</h2>
 
 ###
 
@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=framer" height="40" alt="framer logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" height="40" alt="framer logo" />
   <img width="12" />
 
 </div>
