@@ -69,9 +69,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://zrz5kq.csb.app/"></a>
-</div>
+<link href="https://zrz5kq.csb.app/" />
 
 ###
 
