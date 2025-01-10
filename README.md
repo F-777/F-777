@@ -1,12 +1,4 @@
-- 👋 Hi, I’m Imanuel Revo Admojo
-- 👀 I’m Student in SMK Negeri 4 Malang
-- 🌱 I’m currently learning UI Designer and Frontend Website
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: My Favourites Wife is Furina Focalors and the my fav idol is Fernando Torres Toni Kroos and Steven Gerrard
-- ⚡ Fun fact: 17 y.o
-- chess.com
-
+I am a Frontend developer based in Malang, East Java , Indonesia. I am an Information Technology undergraduate from Public Vocation High School 4 Malang. I am very passionate about improving my coding skills & UI Designer & developing frontend websites. I build Frontend Websites and make UI Design of web . Working for myself to improve my skills. Love to UI Designer and Frontend Developer.
 <div align="center">
   
   <img width="12" />
