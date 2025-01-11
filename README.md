@@ -64,6 +64,9 @@
   <a href="https://github.com/F-777/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="github logo"  />
   </a>
+    <a href="https://facebook.com/Pak Rusli Giyono/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
 
 </div>
 
