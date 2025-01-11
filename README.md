@@ -78,6 +78,8 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zrz5kq.csb.app/)
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https:/grafikarsa.com/revoc4lor5/)
+
 ###
 
 <h2 align="left">My Stats</h2>
