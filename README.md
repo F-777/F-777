@@ -55,16 +55,16 @@
 ###
 
 <div align="left">
+  <a href="https://github.com/F-777/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="github logo"  />
+  </a>
   <a href="https://www.instagram.com/revoadmojo29" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/imanuel-revo-admojo-ba2865310/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/F-777/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="github logo"  />
-  </a>
-    <a href="https://facebook.com/Pak Rusli Giyono/" target="_blank">
+    <a href="https://facebook.com/Pak%20Rusli%20Giyono//" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 
