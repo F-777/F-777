@@ -17,6 +17,24 @@
 
 ### 
 
+<h2 align="left">Comunity</h2>
+
+### 
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="52" height="40" alt="notion logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="52" height="40" alt="telegram logo"  />
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="52" height="40" alt="medium logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="52" height="40" alt="whatsapp logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="52" height="40" alt="discord logo"  />
+</div>
+
+### 
+
 <h2 align="left">Designer</h2>
 
 ###
@@ -25,8 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dribbble/dribbble-original.svg" height="40" alt="figma logo" />
   <img width="12" />
 </div>
 
