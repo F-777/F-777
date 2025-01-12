@@ -64,8 +64,11 @@
   <a href="https://www.linkedin.com/in/imanuel-revo-admojo-ba2865310/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-    <a href="https://facebook.com/Pak%20Rusli%20Giyono//" target="_blank">
+  <a href="https://facebook.com/Pak%20Rusli%20Giyono//" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.behance.net/admjrevo2929max/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 
 </div>
