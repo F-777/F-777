@@ -76,7 +76,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cc/cc-original.svg" height="40" alt="cc logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp@0.0.2/cpp_256x256.png" height="40" alt="C++logo" />
   <img width="12" />
 </div>
 
