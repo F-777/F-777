@@ -79,7 +79,7 @@
 
 ###
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zrz5kq.csb.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-007775?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zrz5kq.csb.app/)
 
 [![portofolio](https://img.shields.io/badge/grafikarsa-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://grafikarsa.com/members/rev0c4lor5/)
 
