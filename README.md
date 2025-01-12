@@ -23,14 +23,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="52" height="40" alt="notion logo"  />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="52" height="40" alt="telegram logo"  />
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="52" height="40" alt="medium logo"  />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="52" height="40" alt="whatsapp logo"  />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
 ### 
