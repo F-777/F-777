@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Imanuel Revo Admojo and I'm a UI/UX Designer & Frontend Developer, from Indonesia</p>
+<p align="left">My name is Imanuel Revo Admojo and I'm a UI/UX Designer & Frontend Developer, from Indonesia , Im school at Vocation High School 4 Malang, I live at Bandungrejosari, Sukun , Malang City, I'm 17 y.o. </p>
 
 ###
 
