@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me 📚</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ### 
 
-<h2 align="left">Designer</h2>
+<h2 align="left">Designer 🎨</h2>
 
 ###
 
