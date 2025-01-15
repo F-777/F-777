@@ -151,7 +151,7 @@
 
 <div align="left">
 
-[![Revo's github stats](https://bad-apple-github-readme.vercel.app/api?username=F-777&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=ice&title_color=dark-blue)](#)  
+[![Revo's github stats](https://bad-apple-github-readme.vercel.app/api?username=F-777&show_icons=true&count_private=true&line_height=20&icon_color=dark-blue&theme=ice&title_color=dark-blue)](#)  
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
