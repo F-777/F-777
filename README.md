@@ -150,8 +150,13 @@
 ###
 
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=F-777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> 
+ <img src="https://github-readme-stats.vercel.app/api?username=F-777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ice&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> 
 
+<p align="center">
+    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
+</p>
+
+ [![Yasir's current streak](https://streak-stats.demolab.com/?user=yasir-shahzad&count_private=true&theme=ice&title_color=00b3ff)](#)  
  
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
@@ -159,12 +164,9 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&layout=compact).
 
-
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
-
- ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 </div> 
 
 
