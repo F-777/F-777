@@ -152,7 +152,11 @@
 <div align="left">
 
 [![Revo's github stats](https://bad-apple-github-readme.vercel.app/api?username=F-777&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=ice&title_color=00b3ff)](#)  
-[![Revo's current streak](https://streak-stats.demolab.com/?user=F-777&count_private=true&theme=ice&title_color=00b3ff)](#)  
+
+<p align="center">
+    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
+</p>
+ 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=F-777&layout=compact&count_private=true&theme=ice&title_color=00b3ff)](#)
 
 <p align="center">
