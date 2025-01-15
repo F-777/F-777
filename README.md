@@ -150,13 +150,13 @@
 ###
 
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=F-777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ice&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> 
+ <img src="https://github-readme-stats.vercel.app/api?username=F-777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-white&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> 
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
- [![Yasir's current streak](https://streak-stats.demolab.com/?user=yasir-shahzad&count_private=true&theme=ice&title_color=00b3ff)](#)  
+ [![F-777's current streak](https://streak-stats.demolab.com/?user=F-777&count_private=true&theme=blue-white&title_color=00b3ff)](#)  
  
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
