@@ -162,17 +162,22 @@
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
-</div> 
 
 ![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=5&theme=white&combine_all_yearly_contributions=true)
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
-</div> 
 
 ![](https://github-profile-trophy.vercel.app/?username=F-777&theme=blue&no-frame=false&no-bg=false&margin-w=4)
 
+<p align="center">
+    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
+</p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=F-777&theme=white&hide_border=false)
+
+</div> 
 ### 
 
 <h2 align="left">My Activities</h2>
