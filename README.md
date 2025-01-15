@@ -130,9 +130,6 @@
   <a href="https://www.behance.net/admjrevo2929max/" target="blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="52" height="40" alt="behance logo"  />
   </a>
-  <a href="https://www.chess.com/admjrevo2929max/" target="blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chess/chess-original.svg" width="52" height="40" alt="chess logo"  />
-  </a>
 
 </div>
 
