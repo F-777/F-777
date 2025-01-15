@@ -171,7 +171,7 @@
 </p>
 </div> 
 
-![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=5&theme=white&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=F-777&theme=blue&no-frame=false&no-bg=false&margin-w=4)
 
 ### 
 
