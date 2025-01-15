@@ -18,16 +18,6 @@
 
 ### 
 
-<h2 align="left">Contribution</h2>
-
-###
-
-![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=5&theme=white&combine_all_yearly_contributions=true)
-
-
-
-### 
-
 <h2 align="left">Comunity 👥</h2>
 
 ### 
@@ -155,7 +145,7 @@
 
 ###
 
-<h2 align="left">My Stats</h2>
+<h2 align="left">My Statistics</h2>
 
 ###
 
@@ -173,6 +163,15 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 </div> 
+
+![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=5&theme=white&combine_all_yearly_contributions=true)
+
+<p align="center">
+    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
+</p>
+</div> 
+
+![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=5&theme=white&combine_all_yearly_contributions=true)
 
 ### 
 
