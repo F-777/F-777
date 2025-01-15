@@ -18,6 +18,17 @@
 
 ### 
 
+<h2 align="left">Contribution</h2>
+
+###
+
+<div align="left">
+  ![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=5&theme=dark-blue&combine_all_yearly_contributions=true)
+</div>
+
+
+### 
+
 <h2 align="left">Comunity 👥</h2>
 
 ### 
@@ -151,13 +162,13 @@
 
 <div align="left">
 
-[![Revo's github stats](https://bad-apple-github-readme.vercel.app/api?username=F-777&show_icons=true&count_private=true&line_height=20&icon_color=dark-blue&theme=ice&title_color=dark-blue)](#)  
+[![Revo's github stats](https://bad-apple-github-readme.vercel.app/api?username=F-777&show_icons=true&count_private=true&line_height=20&icon_color=whitee&theme=dark-blue&title_color=white)](#)  
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
  
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=F-777&layout=compact&count_private=true&theme=ice&title_color=dark-blue)](#)
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=F-777&layout=compact&count_private=true&theme=dark-blue&title_color=white)](#)
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
