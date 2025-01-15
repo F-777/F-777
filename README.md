@@ -175,7 +175,7 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=F-777&theme=white&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=F-777&theme=custom&hide_border=false)
 
 </div> 
 ### 
