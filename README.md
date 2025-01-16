@@ -179,6 +179,6 @@
 
 ###
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&theme=vue-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&theme=react-blue"/>
 
 
