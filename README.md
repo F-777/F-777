@@ -161,7 +161,9 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
  
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=F-777&layout=compact&count_private=true&theme=dark-blue&title_color=white)](#)
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&theme=white&ice=1" />
+</a>
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
