@@ -161,7 +161,7 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
  
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/F-777/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&theme=white&ice=1" />
 </a>
 
