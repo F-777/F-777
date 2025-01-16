@@ -89,10 +89,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/cpp@0.0.2/cpp_256x256.png" height="40" alt="C++logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png" height="40" alt="C# logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.0/c_256x256.png" height="40" alt="C logo" />
-  <img width="12" />
 </div>
 
 ### 
