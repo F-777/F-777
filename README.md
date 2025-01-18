@@ -149,27 +149,27 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-[![Revo's github stats](https://bad-apple-github-readme.vercel.app/api?username=F-777&show_icons=true&count_private=true&line_height=20&icon_color=whitee&theme=react-dark&title_color=white)](#)  
+[![Revo's github stats](https://bad-apple-github-readme.vercel.app/api?username=F-777&show_icons=true&count_private=true&line_height=20&icon_color=whitee&theme=radicalk&title_color=white)](#)  
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
  
 <a href="https://github.com/F-777/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&theme=white&ice=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&theme=radical&ice=1" />
 </a>
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=5&theme=react-dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=f-777&theme=radical&column=4" alt="GitHub Trophy" width="5rem" />
+<img src="https://github-profile-trophy.vercel.app/?username=f-777&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
 
 </div> 
 
