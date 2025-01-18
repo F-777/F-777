@@ -146,7 +146,7 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-![](https://streak-stats.demolab.com/?user=F-777&count_private=false&theme=blue&title_color=white)
+[![GitHub Streak](https://streak-stats.demolab.com?user=f-777)](https://git.io/streak-stats)
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
