@@ -177,6 +177,6 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&theme=react-dark"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abmosawerwadan&" alt="abmosawerwadan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f-777&" alt="abmosawerwadan" /></p>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Image" />
