@@ -140,6 +140,8 @@
 
 <div align="center">
 
+![](https://profile-counter.glitch.me/F-777/count.svg)
+
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
@@ -175,4 +177,4 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&theme=react-dark"/>
 
-![](https://profile-counter.glitch.me/F-777/count.svg)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Image" />
