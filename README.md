@@ -175,4 +175,4 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&theme=react-dark"/>
 
-![](https://profile-counter.glitch.me/TrixSec/count.svg)
+![](https://profile-counter.glitch.me/F-777/count.svg)
