@@ -150,7 +150,7 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=f-777&show_icons=true&theme=radical"
-    alt="GitHub Stats" width="50%" />
+    alt="GitHub Stats" width="70%" />
     
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
