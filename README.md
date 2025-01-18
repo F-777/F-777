@@ -16,7 +16,7 @@
   <br>Today i'm overripe in the software house in the jobs of Frontend Developer web and i'm likes the UI Design and Analystyc of UX  
   <br>Through this portfolio I want to show the results of the projects I worked on as a Frontend Dev Web and Analyst UI and UX , hopefully it can inspire friends who want to become programmers too. and don't give up, keep learning until you can, because in the world of programming there is no waiting, they will continue to develop following the times.</p>
 
-  <img src="co" />
+  <img src="code-1.gif" height="108"/>
 
 ### 
 
