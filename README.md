@@ -7,8 +7,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6F&center=true&vCenter=true&width=1000&height=80&lines=Frontend+Developer+from+Malang;Software+Engineer;UI+UX+Designer" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=f-777&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB" align="center" width="100%" />
-
 ###
 
 <h2 align="left">About me 📚</h2>
