@@ -169,7 +169,8 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=F-777&theme=blue&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=f-777&theme=radical&column=4" alt="GitHub Trophy" width="5rem" />
+
 </div> 
 
 ### 
