@@ -13,7 +13,6 @@
 
 ###
 
-![](https://count.getloli.com/get/@F-777.github.readme)
 
 <p align="left">Hello everyone, let me introduce myself, my name is Imanuel Revo Admojo, I am a Frontend Web developer who comes from Malang City, East Java, . I first started liking the world of programming when I was in junior high school, I accidentally the working of Game Dev , that's where I started to become interested in the world of programming.
   <br>Today i'm overripe in the software house in the jobs of Frontend Developer web and i'm likes the UI Design and Analystyc of UX  
@@ -144,7 +143,7 @@
 
 <div align="center">
 
-![](https://profile-counter.glitch.me/F-777/count.svg)
+![](https://profile-counter.glitch.me/F-777/count.svg) ![](https://count.getloli.com/get/@F-777.github.readme)
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
