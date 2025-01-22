@@ -159,9 +159,7 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
  
-<a href="https://github.com/F-777/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&theme=react&ice=1" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=10&count_private=true&hide=scss)]()
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
