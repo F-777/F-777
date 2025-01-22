@@ -167,13 +167,13 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=f-777&theme=radical&column=4" alt="GitHub Trophy" width="70%" />
+<img src="https://github-profile-trophy.vercel.app/?username=f-777&theme=react&column=4" alt="GitHub Trophy" width="70%" />
 
 </div> 
 
