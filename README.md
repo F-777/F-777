@@ -187,7 +187,7 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-<img src="./profile-3d-contrib/profile-green-animate.svg"/>
+![svg](https://raw.githubusercontent.com/F-777/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Image" />
