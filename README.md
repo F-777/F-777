@@ -183,10 +183,6 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&theme=react-dark"/>
 
-<p align="center">
-    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
-</p>
-
 ![svg](https://raw.githubusercontent.com/F-777/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg)
 
 
