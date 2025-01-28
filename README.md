@@ -146,26 +146,26 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=f-777&show_icons=true&theme=react"
+<img src="https://github-readme-stats.vercel.app/api?username=f-777&show_icons=true&theme=radical"
     alt="GitHub Stats" width="70%" />
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=F-777&theme=react&hide_border=false"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=F-777&theme=radical&hide_border=false"></img>
     
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=10&count_private=true&hide=scss)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=FF0000&langs_count=10&count_private=true&hide=scss)]()
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=5&theme=react&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
