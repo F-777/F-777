@@ -159,7 +159,7 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&layout=compact&hide_border=true&text_color=red&theme=radical&bg_color=fff&langs_count=10&count_private=true&hide=scss)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&layout=compact&hide_border=true&text_color=ff0000&theme=radical&bg_color=dark&langs_count=10&count_private=true&hide=scss)]()
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
