@@ -1,8 +1,8 @@
 ###
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=Imanuel+Revo+Admojo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=80&lines=Imanuel+Revo+Admojo" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6F&center=true&vCenter=true&width=1000&height=80&lines=Frontend+Developer+from+Malang;Software+Engineer;UI+UX+Designer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=80&lines=Frontend+Developer+from+Malang;Software+Engineer;UI+UX+Designer" />
 
 ###
 
