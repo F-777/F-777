@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f656ffae-687b-4485-a69d-68b49afc24a8)###
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=80&lines=Imanuel+Revo+Admojo" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=80&lines=Frontend+Developer+from+Malang;Software+Engineer;UI+UX+Designer" />
