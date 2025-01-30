@@ -179,9 +179,5 @@
 
 ###
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=F-777&show-other-skills=true" width="auto"></img>
-
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&theme=react-dark"/>
 
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Image" />
