@@ -179,8 +179,6 @@
 
 ###
 
-![svg](https://raw.githubusercontent.com/f-777/)
-
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&theme=react-dark"/>
 
 
