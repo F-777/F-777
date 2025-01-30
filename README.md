@@ -179,7 +179,7 @@
 
 ###
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
+<img align="center" src="rainbow.svg" />
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&theme=react-dark"/>
 
