@@ -157,12 +157,6 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
  
-<img width="40%" src="https://github.com/f-777/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
-
-<p align="center">
-    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
-</p>
-
 ![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <p align="center">
