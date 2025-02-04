@@ -116,9 +116,7 @@
 
   <br />
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/Klee/your_spotify_id)
-
-[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=https://open.spotify.com/user/31qxbtcxae7tikvr5erbu3kq4oqy?si=33164b4bf06949f5&cover_image=true&theme=novatorem)](https://open.spotify.com/Klee/your_spotify_id)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31qxbtcxae7tikvr5erbu3kq4oqy?si=33164b4bf06949f5)
 
 
 
