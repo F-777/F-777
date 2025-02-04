@@ -115,12 +115,12 @@
   </a>
 
   > [!TIP]
-> [![Spotify - Klee_](https://img.shields.io/badge/Spotify-Klee_%0A-2ea44f?logo=spotify)](https://open.spotify.com/Klee/31xm7txea264o45vm66425ojitmq)
+> [![Spotify - Klee_](https://img.shields.io/badge/Spotify-Klee_%0A-2ea44f?logo=spotify)](https://open.spotify.com/track/7AIYO4Sb6AGj8y6ZIHg8Ny?si=3dc1818015a44fbf)
 >
 > <sub>Last played:</sub>
 > <sub>Hacking Mode On</sub>
 >
-> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xm7txea264o45vm66425ojitmq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+> [![spotify-github-profile](https://open.spotify.com/track/7AIYO4Sb6AGj8y6ZIHg8Ny?si=3dc1818015a44fbfjitmq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
