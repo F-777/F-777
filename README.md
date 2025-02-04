@@ -116,7 +116,7 @@
 
   <br />
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31qxbtcxae7tikvr5erbu3kq4oqy?si=33164b4bf06949f5)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ?si=b8fda28340354877)
 
 
 
