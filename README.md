@@ -114,13 +114,11 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="52" height="40" alt="behance logo"  />
   </a>
 
-  > [!TIP]
-> [![Spotify - Klee_](https://img.shields.io/badge/Spotify-Klee_%0A-2ea44f?logo=spotify)](https://open.spotify.com/track/7AIYO4Sb6AGj8y6ZIHg8Ny?si=3dc1818015a44fbf)
->
-> <sub>Last played:</sub>
-> <sub>Hacking Mode On</sub>
->
-> [![spotify-github-profile](https://open.spotify.com/track/7AIYO4Sb6AGj8y6ZIHg8Ny?si=3dc1818015a44fbfjitmq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/Klee/your_spotify_id)
+
+[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=https://open.spotify.com/user/31qxbtcxae7tikvr5erbu3kq4oqy?si=33164b4bf06949f5&cover_image=true&theme=novatorem)](https://open.spotify.com/Klee/your_spotify_id)
+
+
 
 </div>
 
