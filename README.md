@@ -186,5 +186,4 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&theme=react-dark"/>
 
-![svg](https://raw.githubusercontent.com/F-777/contribute.svg)
-
+<img src="https://github.com/F-777/contribute.svg" />
