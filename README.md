@@ -115,7 +115,7 @@
   </a>
 
   > [!TIP]
-> [![Spotify - Aira Aria_](https://img.shields.io/badge/Spotify-Aira-Aria_%0A-2ea44f?logo=spotify)](https://open.spotify.com/user/31xm7txea264o45vm66425ojitmq)
+> [![Spotify - Aira-Aria_](https://img.shields.io/badge/Spotify-Aira-Aria_%0A-2ea44f?logo=spotify)](https://open.spotify.com/user/31xm7txea264o45vm66425ojitmq)
 >
 > <sub>Last played:</sub>
 > <sub>Hacking Mode On</sub>
