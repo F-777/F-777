@@ -118,7 +118,7 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ?si=b8fda28340354877)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/7kLjlQ9OgfhXMnGrcOpoZy?si=784cf8d1d54c4f8f&pt=80029d9dd151070b3e70ebd36029ba99)
 
 
 
