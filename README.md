@@ -114,6 +114,14 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="52" height="40" alt="behance logo"  />
   </a>
 
+  > [!TIP]
+> [![Spotify - Aira Aria_](https://img.shields.io/badge/Spotify-Aira-Aria_%0A-2ea44f?logo=spotify)](https://open.spotify.com/user/31xm7txea264o45vm66425ojitmq)
+>
+> <sub>Last played:</sub>
+> <sub>Hacking Mode On</sub>
+>
+> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xm7txea264o45vm66425ojitmq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
 
 ###
