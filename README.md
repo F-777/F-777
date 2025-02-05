@@ -114,9 +114,6 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="52" height="40" alt="behance logo"  />
   </a>
 
-<p align="center">
-    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
-</p>
 
 <link src="https://open.spotify.com/playlist/7kLjlQ9OgfhXMnGrcOpoZy?si=784cf8d1d54c4f8f&pt=80029d9dd151070b3e70ebd36029ba99" />
 
