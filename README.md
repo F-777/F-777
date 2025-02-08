@@ -131,8 +131,6 @@
 
 [![portofolio](https://img.shields.io/badge/grafikarsa-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://grafikarsa.com/members/rev0c4lor5/)
 
-<img width="40%" src="https://github.com/f-777/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
-<img width="40%" src="https://github.com/f-777/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
 
 ###
 
