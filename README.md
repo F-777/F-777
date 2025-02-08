@@ -4,8 +4,6 @@
 
 ###
 
-    <img width="40%" src="https://github.com/f-777/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
-    <img width="40%" src="https://github.com/f-777/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
 
 <p align="left">Hello everyone, let me introduce myself, my name is Imanuel Revo Admojo, I am a Frontend Web developer who comes from Malang City, East Java, . I first started liking the world of programming when I was in junior high school, I accidentally the working of Game Dev , that's where I started to become interested in the world of programming.
   <br>Today i'm overripe in the software house in the jobs of Frontend Developer web and i'm likes the UI Design and Analystyc of UX  
@@ -132,6 +130,9 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-007775?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zrz5kq.csb.app/)
 
 [![portofolio](https://img.shields.io/badge/grafikarsa-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://grafikarsa.com/members/rev0c4lor5/)
+
+<img width="40%" src="https://github.com/f-777/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
+<img width="40%" src="https://github.com/f-777/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
 
 ###
 
