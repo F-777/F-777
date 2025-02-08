@@ -4,7 +4,7 @@
 
 ###
 
-<img src="https://github.com/jstrieb/github-stats/blob/dev-fundsphere/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/f-777/dev-fundsphere/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 <p align="left">Hello everyone, let me introduce myself, my name is Imanuel Revo Admojo, I am a Frontend Web developer who comes from Malang City, East Java, . I first started liking the world of programming when I was in junior high school, I accidentally the working of Game Dev , that's where I started to become interested in the world of programming.
