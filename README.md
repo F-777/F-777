@@ -131,7 +131,7 @@
 
 [![portofolio](https://img.shields.io/badge/grafikarsa-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://grafikarsa.com/members/rev0c4lor5/)
 
-[![portofolio](https://img.shields.io/badge/sociabuzz-red?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sociabuzz.com/revoadmojo29)
+[![portofolio](https://img.shields.io/badge/sociabuzz-ff0000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sociabuzz.com/revoadmojo29)
 
 
 
