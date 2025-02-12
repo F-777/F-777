@@ -183,7 +183,9 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-![F-777's Stats](https://github-readme-stats.vercel.app/api?username=F-777&theme=radical&show_icons=true&hide_border=true&count_private=true)
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=F-777&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=ff0000" />
+<a />
 
 ![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=10&theme=radical&combine_all_yearly_contributions=true)
 
