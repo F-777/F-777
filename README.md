@@ -15,7 +15,7 @@
        "ID": 0
      },
      "geometry": {
-       "type": "Polygon",
+       "type": "Satelite",
        "coordinates": [
          [
              [-7.987100],
