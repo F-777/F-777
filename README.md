@@ -171,7 +171,7 @@
 </p>
 
 <a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=F-777&count_private=true&include_all_commits=true&show_icons=true&title_color=ffff00&text_color=ffff00&icon_color=ffff00&bg_color=000" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=F-777&count_private=true&include_all_commits=true&show_icons=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=ff0000" />
 <a />
 
 ![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=10&theme=radical&combine_all_yearly_contributions=true)
