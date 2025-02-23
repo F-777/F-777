@@ -140,7 +140,7 @@
 
 ###
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-007775?style=for-the-badge&logo=ko-fi&logoColor=white)](https://imanuel-revo-admojo29.vercel.app/) [![portofolio](https://img.shields.io/badge/grafikarsa-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://grafikarsa.com/members/rev0c4lor5/) [![portofolio](https://img.shields.io/badge/sociabuzz-ff0000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sociabuzz.com/revoadmojo29)[![portofolio](https://img.shields.io/badge/sociabuzz-blue?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sociabuzz.com/revocalors)
+[![portfolio](https://img.shields.io/badge/my_portfolio-007775?style=for-the-badge&logo=ko-fi&logoColor=white)](https://imanuel-revo-admojo29.vercel.app/)  [![portofolio](https://img.shields.io/badge/grafikarsa-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://grafikarsa.com/members/rev0c4lor5/)   [![portofolio](https://img.shields.io/badge/sociabuzz-ff0000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sociabuzz.com/revoadmojo29)    [![portofolio](https://img.shields.io/badge/sociabuzz-0D0097?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sociabuzz.com/revocalors)
 
 
 
