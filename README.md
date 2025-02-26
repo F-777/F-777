@@ -158,7 +158,7 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&layout=compact&hide_border=true&text_color=ffff00&theme=react&bg_color=030303&langs_count=10&count_private=true&hide=scss)]()  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&layout=compact&hide_border=true&text_color=ligthblue&theme=react&bg_color=030303&langs_count=10&count_private=true&hide=scss)]()  
 ![F-777's Streak](https://github-readme-streak-stats.herokuapp.com/?user=F-777&theme=react&hide_border=true)
 
 
