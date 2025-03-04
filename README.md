@@ -4,7 +4,7 @@
 
 
 ###
-<img src="all.png"/><img src="Yubileum.png" width="50" height="25"/>
+<img src="all.png"/><img src="Yubileum.png" width="100" height="50"/>
 
 
 ### 
