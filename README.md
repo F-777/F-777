@@ -1,8 +1,8 @@
 # About
 > I am a Frontend developer based in Malang, East Java , Indonesia. I am an Information Technology undergraduate from Public Vocation High School 4 Malang. I am very passionate about improving my coding skills & UI Designer & developing frontend websites. I build Frontend Websites and make UI Design of web . Working for myself to improve my skills. Love to UI Designer and Frontend Developer.
+> <img src="horment.png"/>
 
-<img src="Yubileum.png" width="520" height="225"/>![](https://count.getloli.com/get/@F-777.github.readme)
-
+<img src="Yubileum.png" width="520" height="225"/>
 
 
 ### 
@@ -128,7 +128,8 @@
 
 <div align="left">
 
-![](https://profile-counter.glitch.me/F-777/count.svg)<img src="horment.png"/>
+![](https://profile-counter.glitch.me/F-777/count.svg)![](https://count.getloli.com/get/@F-777.github.readme)
+
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
