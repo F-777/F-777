@@ -128,7 +128,7 @@
 
 <div align="left">
 
-![](https://profile-counter.glitch.me/F-777/count.svg) 
+![](https://profile-counter.glitch.me/F-777/count.svg)<img src="horment.png"/>
 
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
