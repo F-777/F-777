@@ -6,7 +6,7 @@
 > Working for myself to improve my skills.
 > Love to UI Designer and Frontend Developer.
 
-<img src="horment.png"/>
+<img src="horment.png" align="center"/>
 
 <img src="Yubileum.png" width="520" height="225"/>
 
