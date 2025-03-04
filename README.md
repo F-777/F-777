@@ -4,30 +4,7 @@
 
 ###
 
-```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 2,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Satelite",
-       "coordinates": [
-         [
-             [-7.987100],
-             [112.652922]
-         ]
-       ]
-     }
-   }
- ]
-}
 
-```
 
 ### 
 
