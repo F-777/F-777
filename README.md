@@ -4,7 +4,7 @@
 
 ###
 
-<img src="pyro.png" /> <img src="Hydro.png" /> <img src="Electro.png" />
+<img src="Pyro.png" /> 
 
 ### 
 
