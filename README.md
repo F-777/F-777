@@ -3,8 +3,7 @@
 <h2 align="left">About me 📚</h2>
 
 ###
-
-
+<img src="all.png"/>
 ### 
 
 <h2 align="left">Comunity 👥</h2>
