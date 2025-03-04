@@ -4,7 +4,6 @@
 
 ###
 
-<img src="Pyro.png" /> 
 
 ### 
 
