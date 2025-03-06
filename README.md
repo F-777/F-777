@@ -14,7 +14,9 @@
 ### 
 
 <div align="left">
+  <a href="https://www.notion.so/dipainhouse/Internship-Daily-Report-2025-17582a822d9d809c90c1ea9f24bf461e">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="52" height="40" alt="notion logo"  />
+  </a>
 </div>
 
 ### 
