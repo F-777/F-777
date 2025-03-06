@@ -5,11 +5,7 @@
 > I build Frontend Websites and make UI Design of web.
 > Working for myself to improve my skills.
 > Love to UI Designer and Frontend Developer.
-
-<img src="horment.png" />
-
-<img src="Yubileum.png" width="520" height="225"/>
-
+> <img src="horment.png" />
 
 ### 
 
