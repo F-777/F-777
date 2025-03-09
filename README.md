@@ -7,6 +7,8 @@
 > Love to UI Designer and Frontend Developer.
 > <img src="horment.png" />
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qxbtcxae7tikvr5erbu3kq4oqy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=d60000)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qxbtcxae7tikvr5erbu3kq4oqy&redirect=true)
+
 ### 
 
 <h2 align="left">Comunity 👥</h2>
