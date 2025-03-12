@@ -7,11 +7,7 @@
 > Love to UI Designer and Frontend Developer.
 
 
-### 
 
-<h2 align="left">Comunity 👥</h2>
-
-### 
 
 <div align="left">
   <a href="https://www.notion.so/dipainhouse/Internship-Daily-Report-2025-17582a822d9d809c90c1ea9f24bf461e">
@@ -19,24 +15,10 @@
   </a>
 </div>
 
-### 
-
-<h2 align="left">Designer 🎨</h2>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
 </div>
-
-
-
-###
-
-<h2 align="left">Web FED</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -54,13 +36,6 @@
   <a href="https://vite.dev/"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vitejs logo"  />
   <img width="12" />
 </div>
-
-
-### 
-
-<h2 align="left">Helper</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="52" height="40" alt="github logo"  />
