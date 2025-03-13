@@ -89,7 +89,8 @@
 </p>
 
 [![Yasir's github stats](https://bad-apple-github-readme.vercel.app/api?username=F-777&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=github-dark&title_color=00b3ff)](#)  
-![F-777's Streak](https://github-readme-streak-stats.herokuapp.com/?user=F-777&theme=react&hide_border=true)
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=F-777&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
 
 <img width=450 align="center" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
