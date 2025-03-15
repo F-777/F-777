@@ -73,7 +73,7 @@
 
 ###
 
-<a href="https://imanuel-revo-admojo29.vercel.app/">​​🔗​ My Portofolio</a>
+​🔗​ https://imanuel-revo-admojo29.vercel.app/
 
 
 ###
