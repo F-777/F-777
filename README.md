@@ -69,7 +69,7 @@
 
 ###
 
-<h2 align="left">🌐​ My Portofolio</h2>
+<b><i/>🌐​ My Portofolio</b>
 
 ###
 
