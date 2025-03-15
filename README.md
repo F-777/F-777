@@ -71,7 +71,7 @@
 
 ###
 
-<b/><i/>​🔗​ https://imanuel-revo-admojo29.vercel.app/
+<b/><i🔗​ https://imanuel-revo-admojo29.vercel.app/ />​
 
 
 ###
