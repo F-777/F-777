@@ -69,11 +69,11 @@
 
 ###
 
-<h2 align="left">My Portofolio</h2>
+<h2 align="left">🌐​ My Portofolio</h2>
 
 ###
 
-<a href="https://imanuel-revo-admojo29.vercel.app/"><img width="12" />🌐​</a>
+<a href="https://imanuel-revo-admojo29.vercel.app/">​</a>
 
 
 ###
