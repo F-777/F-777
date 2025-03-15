@@ -73,7 +73,7 @@
 
 ###
 
-<a href="https://imanuel-revo-admojo29.vercel.app/">🌐​</a>
+<a href="https://imanuel-revo-admojo29.vercel.app/"><img width="12" />🌐​</a>
 
 
 ###
