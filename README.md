@@ -101,6 +101,11 @@
 </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=f-777&theme=radical&column=9" alt="GitHub Trophy" width="100%"/>
+<!-- ANIMATED BYE -->
+<!-- <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> -->
+
+<!-- ANIMATED LINE -->
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /></h1></b> -->
 
 </div> 
 
