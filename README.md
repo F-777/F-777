@@ -112,6 +112,6 @@
 
 <img src="animated_line.gif" width="100%"/>
 
-<img src="animated_line.gif" height="50%"/><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&theme=github-dark"/><img src="animated_line.gif" width="50%"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&theme=github-dark" />
 
 <img src="animated_line.gif" width="100%"/>
