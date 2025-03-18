@@ -82,7 +82,7 @@
 
 <div align="left">
 
-![](https://profile-counter.glitch.me/F-777/count.svg)![](https://count.getloli.com/get/@F-777.github.readme)[![moe-counter]](#)
+![](https://profile-counter.glitch.me/F-777/count.svg)![](https://count.getloli.com/get/@F-777.github.readme)
 
 
 <p align="center">
