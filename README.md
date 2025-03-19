@@ -49,7 +49,8 @@
 <br/>
 <img src="animated_line.gif" width="100%"/>
 <br/>
-<img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&hide=none&langs_count=15&layout=compact&theme=react&border_radius=8&size_height=7&count_width=14=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=450 align="center" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&hide=none&langs_count=15&layout=compact&theme=react&border_radius=8&size_height=7&count_width=14=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 <br/>
 <img src="animated_line.gif" width="100%"/>
 <br/>
