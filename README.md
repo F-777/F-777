@@ -38,31 +38,25 @@
 
 <div align="left">
 
+<img src="animated_line.gif" width="100%"/>
+
 ![](https://profile-counter.glitch.me/F-777/count.svg)![](https://count.getloli.com/get/@F-777.github.readme)
 
 
-<p align="center">
-    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
-</p>
+<img src="animated_line.gif" width="100%"/>
 
 [![F-777's github stats](https://bad-apple-github-readme.vercel.app/api?username=F-777&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=github-dark&title_color=00b3ff)](#)  
 
-<p align="center">
-    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
-</p>
+<img src="animated_line.gif" width="100%"/>
 
 <img width=450 align="center" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&hide=none&langs_count=15&layout=compact&theme=react&border_radius=8&size_height=7&count_width=14=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
-<p align="center">
-    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
-</p>
+<img src="animated_line.gif" width="100%"/>
 
 ![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=10&theme=react&combine_all_yearly_contributions=true)
 
-<p align="center">
-    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
-</p>
+<img src="animated_line.gif" width="100%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=f-777&theme=radical&column=9" alt="GitHub Trophy" width="100%"/>
 
