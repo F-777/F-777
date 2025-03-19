@@ -38,12 +38,8 @@
 
 <div align="left">
 
-<img src="animated_line.gif" width="100%"/>
 
 ![](https://profile-counter.glitch.me/F-777/count.svg)![](https://count.getloli.com/get/@F-777.github.readme)
-
-
-<img src="animated_line.gif" width="100%"/>
 
 [![F-777's github stats](https://bad-apple-github-readme.vercel.app/api?username=F-777&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=github-dark&title_color=00b3ff)](#)  
 
