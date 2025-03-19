@@ -19,29 +19,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://github.com/F-777/" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="github logo"  />
-  </a>
-  <a href="https://www.instagram.com/revoadmojo29" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/imanuel-revo-admojo-ba2865310/" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://facebook.com/Pak%20Rusli%20Giyono//" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.behance.net/admjrevo2929max/" target="blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="52" height="40" alt="behance logo"  />
-  </a>
-
-
-<link src="https://open.spotify.com/playlist/7kLjlQ9OgfhXMnGrcOpoZy?si=784cf8d1d54c4f8f&pt=80029d9dd151070b3e70ebd36029ba99" />
-
-
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=notion,linkedin,github)](https://skillicons.dev)
 
 ###
 
