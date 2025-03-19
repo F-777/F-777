@@ -19,7 +19,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=notion,linkedin,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion,linkedin,github,discord,instagram,telegram)](https://skillicons.dev)
 
 ###
 
