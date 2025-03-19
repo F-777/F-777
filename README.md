@@ -11,7 +11,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,html,css,git,github,react,md,npm,vite,webflow,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,html,css,js,ts,git,github,react,md,npm,vite,webflow,wordpress)](https://skillicons.dev)
 
 ###
 
