@@ -4,12 +4,12 @@
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|
 | **Codes**               | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,vite&theme=dark)](https://skillicons.dev)   | 
 | **Non Codes**           | [![My Skills](https://skillicons.dev/icons?i=webflow,wordpress&theme=dark)](https://skillicons.dev)                |
-| **Design**              | [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,ae&theme=dark)](https://skillicons.dev)                            |
+| **Design**              | [![My Skills](https://skillicons.dev/icons?i=figma,adobe&theme=dark)](https://skillicons.dev)                |
 | **Operation System**    | [![My Skills](https://skillicons.dev/icons?i=windows,apple&theme=dark)](https://skillicons.dev)                    |
 | **Deploying**           | [![My Skills](https://skillicons.dev/icons?i=vercel&theme=dark)](https://skillicons.dev)                           |
 | **Helper**              | [![My Skills](https://skillicons.dev/icons?i=stackoverflow,tensorflow,postman&theme=dark)](https://skillicons.dev) |
 | **Media**               | [![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)                           |
-| **Run Administrator**   | [![My Skills](https://skillicons.dev/icons?i=git,powershell&theme=dark)](https://skillicons.dev)                   |
+| **Run Administrator**   | [![My Skills](https://skillicons.dev/icons?i=git,powershell,npm&theme=dark)](https://skillicons.dev)               |
 
 # Social Media 
 
