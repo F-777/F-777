@@ -1,5 +1,7 @@
 # Tech Stack 
 
+| Prpperty            |   Component                                                                                                      |
+|---------------------|------------------------------------------------------------------------------------------------------------------|
 | **Codes**           | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,vite&theme=dark)](https://skillicons.dev) | 
 | **Non Codes**       | [![My Skills](https://skillicons.dev/icons?i=webflow,wordpress&theme=dark)](https://skillicons.dev)              |
 | **Design**          | [![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)                          |
