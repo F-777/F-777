@@ -9,7 +9,7 @@
 | **Deploying**           | [![My Skills](https://skillicons.dev/icons?i=vercel&theme=dark)](https://skillicons.dev)                           |
 | **Helper**              | [![My Skills](https://skillicons.dev/icons?i=stackoverflow,tensorflow,postman&theme=dark)](https://skillicons.dev) |
 | **Media**               | [![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)                           |
-| **Run Administrator**   | [![My Skills](https://skillicons.dev/icons?i=git,powershell,npm&theme=dark)](https://skillicons.dev)               |
+| **Run Administrator**   | [![My Skills](https://skillicons.dev/icons?i=git,powershell,npm,nodejs&theme=dark)](https://skillicons.dev)               |
 
 # Social Media 
 
