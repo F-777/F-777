@@ -1,6 +1,6 @@
 # Tech Stack 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,webflow,wordpress,figma,windows,postman,vscode,vercel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,webflow,wordpress,figma,windows,postman,vscode,vercel,google&theme=dark)](https://skillicons.dev)
 
 # Viewers 
 
