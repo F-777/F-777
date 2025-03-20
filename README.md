@@ -28,4 +28,4 @@
 
 # Graphics 
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=f-777&layout=compact&theme=radical&hide_border=true&langs_count=20" width="370" alt="Most Used Languages" />
+<img src="https://github-readme-stats-sigma-twenty.vercel.app/api/top-langs/?username=f-777&layout=compact&theme=react&hide_border=true&langs_count=20" width="370" alt="Most Used Languages" />
