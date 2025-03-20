@@ -9,4 +9,4 @@
 
 # Repositories 
 
-<img src="https://github-profile-trophy.vercel.app/?username=F-777&theme=radical&row=1&no-bg=true&column=9&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=bhza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
