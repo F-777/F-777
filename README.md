@@ -11,4 +11,4 @@
 
 # Repositories 
 
-<img src="https://github-profile-trophy.vercel.app/?username=f-777&theme=radical&row=2&no-bg=true&column=9&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=f-777&theme=discord&row=2&no-bg=true&column=9&margin-w=15&margin-h=15" />
