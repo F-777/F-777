@@ -44,7 +44,7 @@
 [![F-777's github stats](https://bad-apple-github-readme.vercel.app/api?username=F-777&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=github-dark&title_color=00b3ff)](#)  
 
 <img width=450 align="center" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&hide=none&langs_count=100&layout=compact&theme=react&border_radius=8&size_height=7&count_width=14=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&hide=none&langs_count=24&layout=compact&theme=react&border_radius=8&size_height=7&count_width=14=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 ![](https://github-contributor-stats.vercel.app/api?username=F-777&limit=10&theme=react&combine_all_yearly_contributions=true)
 
