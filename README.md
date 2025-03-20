@@ -28,4 +28,4 @@
 
 # Graphics 
 
-[Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=f-777&theme=react&layout=compact)
+[Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&theme=react&layout=compact)
