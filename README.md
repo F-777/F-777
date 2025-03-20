@@ -1,15 +1,19 @@
 # Tech Stack 
 
-| Propperty            |   Component                                                                                                      |
-|---------------------|------------------------------------------------------------------------------------------------------------------|
-| **Codes**           | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,vite&theme=dark)](https://skillicons.dev) | 
-| **Non Codes**       | [![My Skills](https://skillicons.dev/icons?i=webflow,wordpress&theme=dark)](https://skillicons.dev)              |
-| **Design**          | [![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)                          |
-
+| Propperty               |   Component                                                                                                        |
+|-------------------------|--------------------------------------------------------------------------------------------------------------------|
+| **Codes**               | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,vite&theme=dark)](https://skillicons.dev)   | 
+| **Non Codes**           | [![My Skills](https://skillicons.dev/icons?i=webflow,wordpress&theme=dark)](https://skillicons.dev)                |
+| **Design**              | [![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)                            |
+| **Operation System**    | [![My Skills](https://skillicons.dev/icons?i=windows,apple&theme=dark)](https://skillicons.dev)                    |
+| **Deploying**           | [![My Skills](https://skillicons.dev/icons?i=vercel&theme=dark)](https://skillicons.dev)                           |
+| **Helper**              | [![My Skills](https://skillicons.dev/icons?i=stackoverflow,tensorflow,postman&theme=dark)](https://skillicons.dev) |
+| **Media**               | [![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)                           |
+| **Run Administrator**   | [![My Skills](https://skillicons.dev/icons?i=git,powershell&theme=dark)](https://skillicons.dev)                   |
 
 # Social Media 
 
-[![My Skills](https://skillicons.dev/icons?i=instagram,discord,stackoverflow,linkedin,github,twitter,notion&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram,discord,linkedin,github,twitter,notion,gmail&theme=dark)](https://skillicons.dev)
 
 # Viewers 
 
