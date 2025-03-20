@@ -2,7 +2,7 @@
 
 # Viewers 
 
-<img alt="Moe Counter!" src="https://count.getloli.com/@Moe-counter.github?name=F-777.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+<img alt="Moe Counter!" src="https://count.getloli.com/@F-777.github?name=F-777.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 
 
 # Activity 
