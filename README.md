@@ -21,14 +21,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=notion,linkedin,github,discord,instagram,stackoverflow)](https://skillicons.dev)
 
-###
-
-<h2>🌐​ My Portofolio</h2>
-
-###
-
-<b/>🔗​ https://imanuel-revo-admojo29.vercel.app/ ​
-
 
 ###
 
