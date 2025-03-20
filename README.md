@@ -6,3 +6,7 @@
 
 # Activity 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&bg_color=000&color=FFD700&line=FFD700&point=FFD700&area=true&area_color=FFD700&hide_border=true" alt="GitHub Activity"/>
+
+# Repositories 
+
+<img src="https://github-profile-trophy.vercel.app/?username=F-777&theme=radical&row=2&no-bg=true&column=9&margin-w=15&margin-h=15" />
