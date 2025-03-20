@@ -1,6 +1,9 @@
 # Tech Stack 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,webflow,wordpress,figma,windows,postman,vscode,vercel,vite&theme=dark)](https://skillicons.dev)
+| Codes           | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,vite&theme=dark)](https://skillicons.dev) | 
+| Non Codes       | [![My Skills](https://skillicons.dev/icons?i=webflow,wordpress&theme=dark)](https://skillicons.dev)              |
+| Design          | [![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)                          |
+
 
 # Social Media 
 
@@ -16,3 +19,7 @@
 # Repositories 
 
 <img src="https://github-profile-trophy.vercel.app/?username=f-777&theme=discord&row=2&no-bg=true&column=9&margin-w=15&margin-h=15" />
+
+# Graphics 
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=F-777&layout=compact&theme=radical&hide_border=true&langs_count=8" width="370" alt="Most Used Languages" />
