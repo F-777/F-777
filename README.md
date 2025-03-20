@@ -1,6 +1,10 @@
 # Tech Stack 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,webflow,wordpress,figma,windows,postman,vscode,vercel,google&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,webflow,wordpress,figma,windows,postman,vscode,vercel,vite&theme=dark)](https://skillicons.dev)
+
+# Social Media 
+
+[![My Skills](https://skillicons.dev/icons?i=instagram,discord,stackoverflow,linkedin,github,twitter,notion&theme=dark)](https://skillicons.dev)
 
 # Viewers 
 
