@@ -4,14 +4,12 @@
 |-------|-------------| 
 | ***Name*** | *Imanuel Revo Admojo* |
 | ***Age*** | *17 Years Old* |
-| ***Domicillion*** | *Malang City* |
+| ***Country*** | *Indonesia* | 
+| ***Domicillion*** | *Bandungrejosari, Sukun, Malang City* |
 | ***Province*** | *East Java* | 
-
-
-
-
-
-
+| ***Status*** | *singgle younger < 21*  | 
+| ***Jobdesk*** | *Student , Frontend Development, Figma Designer* | 
+| ***Gender*** | *Male* | 
 
 # Tech Stack 
 
