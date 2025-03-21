@@ -33,11 +33,11 @@
 <img alt="Moe Counter!" src="https://count.getloli.com/@F-777.github?name=F-777.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/> <img src="https://profile-counter.glitch.me/F-777/count.svg" />
 
 # Activity 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&bg_color=009cc3&color=fff&line=fff&point=fff&area=true&area_color=fff&hide_border=true" alt="GitHub Activity"/>
 
-# Repositories 
-
-<img src="https://github-profile-trophy.vercel.app/?username=f-777&theme=discord&row=2&no-bg=true&column=9&margin-w=15&margin-h=15" />
+| Time | 
+|------|
+| <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&bg_color=009cc3&color=fff&line=fff&point=fff&area=true&area_color=fff&hide_border=true" alt="GitHub Activity"/> |
+| <img src="https://github-profile-trophy.vercel.app/?username=f-777&theme=discord&row=2&no-bg=true&column=9&margin-w=15&margin-h=15" /> |
 
 # Graphics 
 
