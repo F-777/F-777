@@ -1,4 +1,4 @@
-# Introducing 
+# [![Social](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/imanuel-revo-admojo-ba2865310/)  Introducing 
 
 |       |  Profile  | 
 |-------|-------------| 
