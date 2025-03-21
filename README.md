@@ -9,7 +9,7 @@
 | ***Zip Postal Code*** | *65148* |
 | ***Province*** | *East Java* | 
 | ***Status*** | *singgle younger < 21*  | 
-| ***Jobdesk*** | *Student , Frontend Development, Figma Designer* | 
+| ***Jobdesk*** | *Student , Frontend Developer, Figma Designer* | 
 | ***Gender*** | *Male* | 
 
 # Tech Stack 
