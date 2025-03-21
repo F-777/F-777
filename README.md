@@ -40,7 +40,7 @@
 | **Activity** | <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&bg_color=009cc3&color=fff&line=fff&point=fff&area=true&area_color=fff&hide_border=true" alt="GitHub Activity"/> |
 | **Trophy** | <img src="https://github-profile-trophy.vercel.app/?username=f-777&theme=discord&row=2&no-bg=true&column=10&margin-w=15&margin-h=15" /> |
 | **Statistics**| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=f-777&show_icons=true&theme=react&hide_border=true" width="100%" alt="GitHub Stats" />  |
-| **Language** | ![F-777's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&theme=react&show_icons=true&hide_border=true&layout=compact) | 
+| **Language** | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-777&langs_count=10&theme=react&layout=pie)](https://youtu.be/rlVUng3uP8E) | 
 | **Streak** | <img src="https://github-readme-streak-stats.herokuapp.com/?user=f-777&theme=react&hide_border=true" alt="GitHub Streak"/> |
 
 
