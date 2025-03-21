@@ -1,6 +1,6 @@
 # Introducing 
 
-|       |   Identinty  | 
+|       |  Profile  | 
 |-------|-------------| 
 | ***Name*** | *Imanuel Revo Admojo* |
 | ***Age*** | *17 Years Old* |
