@@ -1,3 +1,18 @@
+# Introducing 
+
+|       |   Identinty  | 
+|-------|-------------| 
+| ***Name*** | *Imanuel Revo Admojo* |
+| ***Age*** | *17 Years Old* |
+| ***Domicillion*** | *Malang City* |
+| ***Province*** | *East Java* | 
+
+
+
+
+
+
+
 # Tech Stack 
 
 
