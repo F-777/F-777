@@ -30,7 +30,7 @@
 
 | Statistics |
 |-------------------------------------------------------------------------------------------------------------------------|
-|<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=f-777&show_icons=true&theme=react&hide_border=true" width="450" alt="GitHub Stats" />  |
+|<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=f-777&show_icons=true&theme=react&hide_border=true" width="100%" alt="GitHub Stats" />  |
 | ![F-777's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F-777&theme=react&show_icons=true&hide_border=true&layout=compact) | 
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=f-777&theme=react&hide_border=true" alt="GitHub Streak"/> |
 
