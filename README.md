@@ -35,14 +35,10 @@
 
 # Activity 
 
-| Time | 
-|------|
-| Graphics | 
-|----------| 
-| <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&bg_color=009cc3&color=fff&line=fff&point=fff&area=true&area_color=fff&hide_border=true" alt="GitHub Activity"/> |
-| Trophy |
-|--------|
-| <img src="https://github-profile-trophy.vercel.app/?username=f-777&theme=discord&row=2&no-bg=true&column=9&margin-w=15&margin-h=15" /> |
+| Time | Contribute |
+|------|------------| 
+| **Activity Graphics** | <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=F-777&bg_color=009cc3&color=fff&line=fff&point=fff&area=true&area_color=fff&hide_border=true" alt="GitHub Activity"/> |
+| **Github Trophy** | <img src="https://github-profile-trophy.vercel.app/?username=f-777&theme=discord&row=2&no-bg=true&column=9&margin-w=15&margin-h=15" /> |
 
 # Graphics 
 
