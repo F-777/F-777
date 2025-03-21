@@ -13,7 +13,7 @@
 | ***Gender*** | *Male* | 
 | ***Social Media*** | [![Social](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/revoadmojo29/) [![Social](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev) [![Social](https://skillicons.dev/icons?i=twitter&theme=dark)](https://skillicons.dev) [![Social](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/F-777/) [![Social](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev) [![Social](https://skillicons.dev/icons?i=gmail&theme=dark)](https://skillicons.dev) [![Social](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/imanuel-revo-admojo-ba2865310/) | 
 
-# Tech Stack 
+# <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Tech Stack 
 
 
 | Propperty               |   Component                                                                                                        |
