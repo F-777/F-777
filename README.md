@@ -16,7 +16,17 @@
 
 # Social Media 
 
-[![My Skills](https://skillicons.dev/icons?i=instagram(https://www.instagram.com/p/DEvdxeVowPX/?img_index=1),discord,linkedin,github,twitter,notion,gmail&theme=dark)](https://skillicons.dev)
+| Social Media |
+|--------------|
+| [![Social](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/revoadmojo29/) | **Instagram** |
+| [![Social](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev) | **Discord**   |
+| [![Social](https://skillicons.dev/icons?i=twitter&theme=dark)](https://skillicons.dev) | **Twitter**   | 
+| [![Social](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/F-777/) | **Github**    |
+| [![Social](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev) | **Notion**    |
+| [![Social](https://skillicons.dev/icons?i=gmail&theme=dark)](https://skillicons.dev) | **Gmail**     |
+| [![Social](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/imanuel-revo-admojo-ba2865310/) | **Linkedin**     |
+
+
 
 
 # Viewers 
