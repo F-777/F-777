@@ -16,8 +16,8 @@
 
 # Social Media 
 
-| Social Media |
-|--------------|
+| Social Media | Note |
+|--------------|--------------| 
 | [![Social](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/revoadmojo29/) | **Instagram** |
 | [![Social](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev) | **Discord**   |
 | [![Social](https://skillicons.dev/icons?i=twitter&theme=dark)](https://skillicons.dev) | **Twitter**   | 
