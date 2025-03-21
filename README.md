@@ -16,7 +16,7 @@
 
 # Social Media 
 
-[![My Skills](https://skillicons.dev/icons?i=instagram,discord,linkedin,github,twitter,notion,gmail&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram(https://www.instagram.com/p/DEvdxeVowPX/?img_index=1),discord,linkedin,github,twitter,notion,gmail&theme=dark)](https://skillicons.dev)
 
 
 # Viewers 
