@@ -1,6 +1,5 @@
 # Tech Stack 
 
-<div align="center">
 
 | Propperty               |   Component                                                                                                        |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -13,13 +12,12 @@
 | **Media**               | [![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)                           |
 | **Run Administrator**   | [![My Skills](https://skillicons.dev/icons?i=git,powershell,npm,nodejs&theme=dark)](https://skillicons.dev)        |
 
-</div> 
+
 
 # Social Media 
 
-<div align="center">
 [![My Skills](https://skillicons.dev/icons?i=instagram,discord,linkedin,github,twitter,notion,gmail&theme=dark)](https://skillicons.dev)
-</div>
+
 
 # Viewers 
 
