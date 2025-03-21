@@ -11,7 +11,7 @@
 | ***Status*** | *singgle younger < 21*  | 
 | ***Jobdesk*** | *Student , Frontend Developer, Figma Designer* | 
 | ***Gender*** | *Male* | 
-| ***Social Media*** | [![Social](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/revoadmojo29/) [![Social](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev)
+| ***Social Media*** | [![Social](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/revoadmojo29/) [![Social](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev) [![Social](https://skillicons.dev/icons?i=twitter&theme=dark)](https://skillicons.dev) [![Social](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/F-777/) [![Social](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev) [![Social](https://skillicons.dev/icons?i=gmail&theme=dark)](https://skillicons.dev) [![Social](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/imanuel-revo-admojo-ba2865310/) | 
 
 # Tech Stack 
 
@@ -25,22 +25,6 @@
 | **Deploying**           | [![My Skills](https://skillicons.dev/icons?i=vercel&theme=dark)](https://skillicons.dev)                           |
 | **Helper**              | [![My Skills](https://skillicons.dev/icons?i=stackoverflow,tensorflow,postman&theme=dark)](https://skillicons.dev) |
 | **Run Administrator**   | [![My Skills](https://skillicons.dev/icons?i=git,powershell,npm,nodejs&theme=dark)](https://skillicons.dev)        |
-
-
-
-# Social Media 
-
-| Social Media | Note |
-|--------------|--------------| 
-| [![Social](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/revoadmojo29/) | **Instagram** |
-| [![Social](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev) | **Discord**   |
-| [![Social](https://skillicons.dev/icons?i=twitter&theme=dark)](https://skillicons.dev) | **Twitter**   | 
-| [![Social](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/F-777/) | **Github**    |
-| [![Social](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev) | **Notion**    |
-| [![Social](https://skillicons.dev/icons?i=gmail&theme=dark)](https://skillicons.dev) | **Gmail**     |
-| [![Social](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/imanuel-revo-admojo-ba2865310/) | **Linkedin**     |
-
-
 
 
 # Viewers 
