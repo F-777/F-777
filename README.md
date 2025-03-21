@@ -11,6 +11,7 @@
 | ***Status*** | *singgle younger < 21*  | 
 | ***Jobdesk*** | *Student , Frontend Developer, Figma Designer* | 
 | ***Gender*** | *Male* | 
+| ***Social Media*** | [![Social](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/revoadmojo29/) [![Social](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev)
 
 # Tech Stack 
 
