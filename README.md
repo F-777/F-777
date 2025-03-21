@@ -6,6 +6,7 @@
 | ***Age*** | *17 Years Old* |
 | ***Country*** | *Indonesia* | 
 | ***Domicillion*** | *Bandungrejosari, Sukun, Malang City* |
+| ***Zip Postal Code*** | *65148* |
 | ***Province*** | *East Java* | 
 | ***Status*** | *singgle younger < 21*  | 
 | ***Jobdesk*** | *Student , Frontend Development, Figma Designer* | 
